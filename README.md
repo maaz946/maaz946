@@ -39,6 +39,7 @@ Verify my credentials on [Credly](https://www.credly.com/users/maaz-ullah-khan-w
 ## 🌐 Connect With Me
 - **LinkedIn**: [maaz-ullah-khan-warsi](https://www.linkedin.com/in/maaz-ullah-khan-warsi/)
 - **YouTube**: [@maazullahkhanwarsi](https://www.youtube.com/@maazullahkhanwarsi)
+- **Medium**: [@maazullahkhanwarsi](https://medium.com/@maazullahkhanwarsi123)
 - **Credly**: [maaz-ullah-khan-warsi](https://www.credly.com/users/maaz-ullah-khan-warsi)
 - **Email**: [maazullahkhanwarsi123@gmail.com](mailto:maazullahkhanwarsi123@gmail.com)
 - **Portfolio**: [github.com/maaz946](https://github.com/maaz946)
